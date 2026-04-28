@@ -1,4 +1,4 @@
-![Teks Alternatif](img/fahmi-fakhrudin-nzyzAUsbV0M-unsplash.jpg" />
+![Teks Alternatif](img/KOPI.png" />
 )
 
 # Judul Besar (H1)
