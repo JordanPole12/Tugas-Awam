@@ -1,18 +1,24 @@
-![Teks Alternatif](img/KOPI.png" />
-)
+![Logo Kopimi](img/KOPI.png)
 
-# Judul Besar (H1)
-## Judul Sedang (H2)
-### Judul Kecil (H3)
+# Kopimi - Nikmati Secangkir Kopi
 
-**Teks Tebal (Bold)**
-*Teks Miring (Italic)*
+## Tentang Proyek
+Website Kopimi adalah platform modern untuk menikmati kopi dengan cita rasa lokal yang sudah terintegrasi dengan database MySQL.
 
-- Poin List
-- Poin List lainnya
+### Fitur Utama
+- **Menu Dinamis**: Mengambil data langsung dari database.
+- **Form Kontak**: Menyimpan pesan pengunjung ke tabel kontak.
+- **Responsif**: Tampilan optimal di berbagai perangkat.
 
-`kode singkat` (Inline code)
-<<<<<<< HEAD
-=======
+**Teks Tebal (Bold)** untuk penekanan informasi penting dan *Teks Miring (Italic)* untuk istilah asing.
 
->>>>>>> 6b53667722a38bffbbd9cda7eb3e6ca3197dbcf1
+### Teknologi yang Digunakan
+- `PHP` & `MySQL` untuk Backend.
+- `HTML5`, `CSS3`, & `JavaScript` untuk Frontend.
+- `Feather Icons` untuk desain ikon yang bersih.
+
+### Cara Instalasi
+1. Clone repositori ini.
+2. Impor file database `kopimi_db.sql` ke phpMyAdmin.
+3. Pastikan konfigurasi di `koneksi.php` sudah sesuai.
+4. 
