@@ -1,4 +1,4 @@
-![Logo Kopimi](img/KOPI.png)
+![Logo Kopimi](fahmi-fakhrudin-nzyzAUsbV0M-unsplash.jpg)
 
 # Kopimi - Nikmati Secangkir Kopi
 
@@ -21,4 +21,3 @@ Website Kopimi adalah platform modern untuk menikmati kopi dengan cita rasa loka
 1. Clone repositori ini.
 2. Impor file database `kopimi_db.sql` ke phpMyAdmin.
 3. Pastikan konfigurasi di `koneksi.php` sudah sesuai.
-4. 
